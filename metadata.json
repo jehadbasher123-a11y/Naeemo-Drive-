@@ -1,0 +1,6 @@
+{
+  "name": "DriveMaster UK - Premier Driving School",
+  "description": "Modern and comprehensive website for a premier UK Driving School featuring DVSA certified instructors, instant WhatsApp/call connect, online lesson booking, pricing packages, and interactive DVSA test preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
